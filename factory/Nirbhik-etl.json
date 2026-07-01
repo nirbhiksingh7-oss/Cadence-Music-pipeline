@@ -1,0 +1,15 @@
+{
+	"name": "Nirbhik-etl",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4d6d58d0-1d3b-4572-9227-f3c04fb9b4fb",
+		"tenantId": "c8590879-16e2-4eef-803b-2c1745e7cf9e"
+	}
+}
