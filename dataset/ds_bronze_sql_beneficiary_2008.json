@@ -1,0 +1,15 @@
+{
+	"name": "ds_bronze_sql_beneficiary_2008",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"table": "bronze.beneficiary_2008"
+		}
+	}
+}
