@@ -10,7 +10,7 @@
 		"schema": [],
 		"typeProperties": {
 			"schema": "bronze",
-			"table": "bronze.beneficiary_2008"
+			"table": "beneficiary_2008"
 		}
 	}
 }
