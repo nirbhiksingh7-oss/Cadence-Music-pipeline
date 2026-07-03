@@ -9,6 +9,7 @@
 		"type": "AzureSqlTable",
 		"schema": [],
 		"typeProperties": {
+			"schema": "bronze.beneficiary_2008",
 			"table": "bronze.beneficiary_2008"
 		}
 	}
